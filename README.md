@@ -72,7 +72,3 @@ Per utilizzare l'applicazione, segui questi passaggi:
 I contributi sono i benvenuti! Se desideri contribuire al progetto, per favore apri una issue o una pull request.
 
 ---
-
-### Link webapp
-
-[PDF Merger Webapp](https://pdf-merged.vercel.app/)
